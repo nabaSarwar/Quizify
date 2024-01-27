@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="greish">#007BBF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="peach">#FFADAD</color>
+    <color name="melon">#FFD6A5</color>
+    <color name="lemon">#FDFFB6</color>
+    <color name="sage">#E4F1EE</color>
+    <color name="blue">#D9EDF8</color>
+    <color name="lilac">#CFC6FF</color>
+    <color name="pink">#FFDEFB</color>
+    <color name="pista">#9BFDCB</color>
+    <color name="grey">#DADADA</color>
+
+</resources>
