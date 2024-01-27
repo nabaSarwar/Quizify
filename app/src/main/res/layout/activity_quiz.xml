@@ -34,7 +34,7 @@
             tools:text="5:46"
             android:textSize="18sp"
             android:textStyle="bold"
-            android:textColor="@color/blue"
+            android:textColor="@color/greish"
             android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
             android:id="@+id/timer_indicator_textview"/>
